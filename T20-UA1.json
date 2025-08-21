@@ -1,0 +1,31 @@
+{
+    "T20": {
+        "version": "1.0.0",
+        "path": "/hexhenries/ota/main/",
+        "filename": "light.bin",
+        "white list": {
+            "1.0.1": {
+		"list": ["CHAMPON123456789", "CHAMPON987654321", "CHAMPON789456123"],
+		"path": "/hexhenries/1.0.1/main/",
+ 		"filename": "light-debug.bin"
+	    },
+	    "1.0.2": {
+                "list": ["CHAMPON321654987", "CHAMPON147258369", "CHAMPON963852741"],
+                "path": "/hexhenries/1.0.2/main/",
+                "filename": "light-debug.bin"
+            }
+	},
+	"black list": {
+	    "456": {
+		"version": "1.0.3",
+		"path": "/hexhenries/1.0.3/main/",
+		"filename": "light-last.bin"
+	    },
+	    "987654321": {
+		"version": "1.0.4",
+		"path": "/hexhenries/1.0.4/main/",
+		"filename": "light-last-one.bin"
+	    }
+	}
+    }
+}
