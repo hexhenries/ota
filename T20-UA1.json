@@ -3,7 +3,7 @@
         "version": "5",
         "path": "/hexhenries/ota/main/",
         "filename": "light.bin",
-	"sha256": "c7d1a7c1c2a683a69ecdbb83351334acb5e09de0b2074c85054597024606b9e0",
+	"sha256": "d2986562b56ae4bfae76d63d7ebaf65f28a26168c631245989a4ceb589ff3760",
         "white list": {
             "1.0.1": {
 		"list": ["CHAMPON123456789", "CHAMPON987654321", "CHAMPON789456123"],
