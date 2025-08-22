@@ -1,30 +1,35 @@
 {
-    "T20-UA1": {
-        "version": "1.0.0",
+    "T20": {
+        "version": "5",
         "path": "/hexhenries/ota/main/",
         "filename": "light.bin",
+	"sha256": "305f3d376cd98af2d60b45ea17bb277c602f60e90fa94e7c0bce563d24ba7aa2",
         "white list": {
             "1.0.1": {
 		"list": ["CHAMPON123456789", "CHAMPON987654321", "CHAMPON789456123"],
 		"path": "/hexhenries/1.0.1/main/",
- 		"filename": "light-debug.bin"
+ 		"filename": "light-debug.bin",
+		"sha256": "eb5bffa5423a2630f4bf2dbbabde70d976bc32c058f70b30454ee0988c1e7ef7"
 	    },
 	    "1.0.2": {
                 "list": ["CHAMPON321654987", "CHAMPON147258369", "CHAMPON963852741"],
                 "path": "/hexhenries/1.0.2/main/",
-                "filename": "light-debug.bin"
+                "filename": "light-debug.bin",
+		"sha256": "eb5bffa5423a2630f4bf2dbbabde70d976bc32c058f70b30454ee0988c1e7ef7"
             }
 	},
 	"black list": {
 	    "456": {
 		"version": "1.0.3",
 		"path": "/hexhenries/1.0.3/main/",
-		"filename": "light-last.bin"
+		"filename": "light-last.bin",
+		"sha256": "eb5bffa5423a2630f4bf2dbbabde70d976bc32c058f70b30454ee0988c1e7ef7"
 	    },
 	    "987654321": {
 		"version": "1.0.4",
 		"path": "/hexhenries/1.0.4/main/",
-		"filename": "light-last-one.bin"
+		"filename": "light-last-one.bin",
+		"sha256": "eb5bffa5423a2630f4bf2dbbabde70d976bc32c058f70b30454ee0988c1e7ef7"
 	    }
 	}
     }

@@ -3,6 +3,14 @@
 	"T20-UA1": {
 	    "path": "/hexhenries/ota/main/",
 	    "filename": "T20-UA1.json"
+	},
+	"T20-EA1": {
+	    "path": "/hexhenries/ota/main/",
+            "filename": "T20-EA1.json"
+	},
+	"T20-KA1": {
+            "path": "/hexhenries/ota/main/",
+            "filename": "T20-KA1.json"
 	}
     }
 }
