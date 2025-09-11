@@ -1,9 +1,9 @@
 {
     "T20": {
-        "version": "7",
+        "version": "8",
         "path": "/hexhenries/ota/main/",
         "filename": "light.bin",
-	"sha256": "d99199a48715366449d204b84f4ffba86e034605e982a2e8c4f8f08618fd25df",
+	"sha256": "2fdd475bc9ea3c2448d47b13ca838e90f7cf932ddf62c14a1c8e90e7497ecec6",
         "white list": {
             "1.0.1": {
 		"list": ["CHAMPON123456789", "CHAMPON987654321", "CHAMPON789456123"],
