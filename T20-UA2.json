@@ -3,7 +3,7 @@
         "version": "10",
         "path": "/hexhenries/ota/main/",
         "filename": "T20.bin",
-	"sha256": "1af4908949782981197d669910d084aee609c69065249b094f48313b5f8ba34e",
+	"sha256": "449a4bced5f5b5031a57f24aadf709eac2232dbe4ad531d40034fda979b37d8e",
         "white list": {
             "1.0.1": {
 		"list": ["CHAMPON123456789", "CHAMPON987654321", "CHAMPON789456123"],
